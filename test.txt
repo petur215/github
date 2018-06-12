@@ -1,3 +1,5 @@
 prufasd
 
 Pétur af netinu
+
+Pétur úr VSCode
